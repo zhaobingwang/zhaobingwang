@@ -14,13 +14,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=java-samples)](https://github.com/zhaobingwang/python-samples)
 
 
+#### GitHub stats
+
+[![Sophon's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaobingwang)](https://github.com/zhaobingwang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaobingwang&layout=compact)](https://github.com/zhaobingwang)
 
 
 <!--
 **zhaobingwang/zhaobingwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Sophon's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaobingwang)](https://github.com/zhaobingwang)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaobingwang&layout=compact)](https://github.com/zhaobingwang)
 
 Here are some ideas to get you started:
 
