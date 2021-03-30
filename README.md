@@ -8,10 +8,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=samples)](https://github.com/zhaobingwang/samples)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=Demo)](https://github.com/zhaobingwang/Demo)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=front-end-samples)](https://github.com/zhaobingwang/python-samples)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=front-end-samples)](https://github.com/zhaobingwang/front-end-samples)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=python-samples)](https://github.com/zhaobingwang/python-samples)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=java-samples)](https://github.com/zhaobingwang/python-samples)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=java-samples)](https://github.com/zhaobingwang/java-samples)
 
 
 #### GitHub stats
