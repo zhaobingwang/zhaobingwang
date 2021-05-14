@@ -13,6 +13,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=java-samples)](https://github.com/zhaobingwang/java-samples)
 
+#### Trifles
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=DS)](https://github.com/zhaobingwang/DS)
 
 #### GitHub stats
 
