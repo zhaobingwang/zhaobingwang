@@ -1,39 +1,21 @@
-<!--
-### Hi there 👋
-
-#### App && Tools
+# Sophon's repository Index
+## 📕learning series
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=learning-html)](https://github.com/zhaobingwang/learning-html)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=learning-css)](https://github.com/zhaobingwang/learning-css)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=learning-javascript)](https://github.com/zhaobingwang/learning-javascript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=learning-typescript)](https://github.com/zhaobingwang/learning-typescript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=learning-vue)](https://github.com/zhaobingwang/learning-vue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=learning-csharp)](https://github.com/zhaobingwang/learning-csharp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=learning-python)](https://github.com/zhaobingwang/learning-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=learning-java)](https://github.com/zhaobingwang/learning-java)
+## ⚙️App & Tools series
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=Desk)](https://github.com/zhaobingwang/Desk)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=Sophon)](https://github.com/zhaobingwang/Sophon)
 
-#### Samples Repository
+## 😄others
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=samples)](https://github.com/zhaobingwang/samples)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=Demo)](https://github.com/zhaobingwang/Demo)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=front-end-samples)](https://github.com/zhaobingwang/front-end-samples)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=python-samples)](https://github.com/zhaobingwang/python-samples)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=java-samples)](https://github.com/zhaobingwang/java-samples)
-
-#### Trifles
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=data)](https://github.com/zhaobingwang/data)
-
-#### GitHub stats
+## ✨GitHub stats
 
 [![Sophon's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaobingwang)](https://github.com/zhaobingwang)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaobingwang&layout=compact)](https://github.com/zhaobingwang)
-
--->
-<!--
-**zhaobingwang/zhaobingwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
