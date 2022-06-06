@@ -8,6 +8,7 @@
 ## ⚙️App & Tools series
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=Desk)](https://github.com/zhaobingwang/Desk)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=Sophon)](https://github.com/zhaobingwang/Sophon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=zhao-space)](https://github.com/zhaobingwang/zhao-space)
 
 ## 😄others
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaobingwang&repo=samples)](https://github.com/zhaobingwang/samples)
